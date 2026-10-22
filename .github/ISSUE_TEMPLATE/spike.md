@@ -19,8 +19,6 @@ labels: spike, draft
 ### Out of scope
 <!-- What this spike will not cover. -->
 
-### Success criteria
-<!-- What a useful answer looks like. Define what "done" means. -->
-
-### Outcome
-<!-- Filled in when the spike closes. State the answer, a recommendation (proceed, reject, or need more info), and links to findings, code, or follow-up issues. -->
+### Acceptance criteria
+<!-- Checkboxes. What a useful answer looks like. Define what "done" means. The outcome itself goes in the conclusion comment, not here. -->
+- [ ]

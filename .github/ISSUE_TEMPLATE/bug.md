@@ -17,14 +17,8 @@ labels: bug, draft
 ### Actual behavior
 <!-- What happens instead. Include full error messages or logs in a code block. -->
 
-### Operating system
-<!-- One of: Windows, macOS, Linux, iOS, Android, Other. -->
-
-### Version
-<!-- App, library, or package version. -->
-
-### Environment details
-<!-- Browser, runtime, relevant config. Omit if not applicable. -->
+### Environment
+<!-- App, library or package version; operating system, browser or runtime; relevant config. Omit what doesn't apply. -->
 
 ### Additional context
 <!-- Screenshots, regressions, frequency, workarounds. Omit if not applicable. -->
