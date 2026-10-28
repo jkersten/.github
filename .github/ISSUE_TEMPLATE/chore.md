@@ -1,7 +1,7 @@
 ---
 name: Chore
 about: Maintenance that doesn't change what the app does (dependencies, CI, refactoring, tooling)
-labels: chore, draft
+labels: task, chore, draft
 ---
 
 ### Why
