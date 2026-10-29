@@ -7,7 +7,7 @@ labels: spike, draft
 ### Question to answer
 <!-- The specific question this spike should resolve. Phrase it so the answer is a yes/no, a choice, or a number. -->
 
-### Context and motivation
+### Context
 <!-- Why this matters now. Which decision depends on the answer? -->
 
 ### Time box

@@ -7,6 +7,9 @@ labels: bug, draft
 ### Summary
 <!-- One line describing the bug. -->
 
+### Context
+<!-- Screenshots, regressions, frequency, workarounds, related tickets and earlier decisions. -->
+
 ### Steps to reproduce
 <!-- A numbered list starting from a clean state. -->
 1.
@@ -19,6 +22,3 @@ labels: bug, draft
 
 ### Environment
 <!-- App, library or package version; operating system, browser or runtime; relevant config. Omit what doesn't apply. -->
-
-### Additional context
-<!-- Screenshots, regressions, frequency, workarounds. Omit if not applicable. -->

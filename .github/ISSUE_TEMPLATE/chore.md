@@ -7,6 +7,9 @@ labels: task, chore, draft
 ### Why
 <!-- What prompted this: an outdated dependency, a slow CI run, code that is hard to change. -->
 
+### Context
+<!-- Background that helps to understand the chore: related tickets and earlier decisions. -->
+
 ### What
 <!-- The change itself, in a few bullets. -->
 
