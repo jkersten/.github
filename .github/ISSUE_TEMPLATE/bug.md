@@ -22,3 +22,14 @@ labels: bug, draft
 
 ### Environment
 <!-- App, library or package version; operating system, browser or runtime; relevant config. Omit what doesn't apply. -->
+
+### Acceptance criteria
+<!-- Checkboxes. Each one is something a reviewer can verify. -->
+- [ ] A test fails without the fix and passes with it
+- [ ]
+
+### Out of scope
+<!-- What this fix will not cover. If another ticket covers it, name that ticket. -->
+
+### Notes
+<!-- Links, workarounds, risks. Omit if not applicable. -->

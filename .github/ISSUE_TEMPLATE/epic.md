@@ -17,5 +17,9 @@ labels: epic, draft
 ### Out of scope
 <!-- What this epic will not cover. -->
 
+### Open questions
+<!-- A numbered list of what still needs a decision. -->
+1.
+
 ### Notes
 <!-- Links, designs, risks. Omit if not applicable. The stories are sub-issues, so don't list them here. -->
