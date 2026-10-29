@@ -7,6 +7,9 @@ labels: task, draft
 ### Goal
 <!-- What this task delivers, in one or two sentences. -->
 
+### Context
+<!-- Background that helps to understand the task: the current situation, related tickets and earlier decisions. -->
+
 ### Scope
 <!-- What the task changes: the parts of the app, files or behaviour it touches. -->
 

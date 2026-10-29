@@ -7,6 +7,9 @@ labels: proposal, draft
 ### Problem
 <!-- What is wrong or missing, and for whom. -->
 
+### Context
+<!-- Background that helps to understand the proposal: the current situation, related tickets and earlier decisions. -->
+
 ### Proposed solution
 <!-- What you suggest, in plain language. -->
 
