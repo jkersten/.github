@@ -16,9 +16,12 @@ labels: spike, draft
 ### Approach
 <!-- How you plan to investigate: prototype, benchmark, reading, interviews, etc. -->
 
-### Out of scope
-<!-- What this spike will not cover. -->
-
 ### Acceptance criteria
 <!-- Checkboxes. What a useful answer looks like. Define what "done" means. The outcome itself goes in the conclusion comment, not here. -->
 - [ ]
+
+### Out of scope
+<!-- What this spike will not cover. -->
+
+### Notes
+<!-- Links, prior art, risks. Omit if not applicable. -->

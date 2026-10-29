@@ -17,5 +17,9 @@ labels: story, draft
 ### Out of scope
 <!-- What this story will not cover. -->
 
+### Open questions
+<!-- A numbered list of what still needs a decision. -->
+1.
+
 ### Notes
 <!-- Links, designs, risks. Omit if not applicable. The steps are sub-issues, so don't list them here. -->

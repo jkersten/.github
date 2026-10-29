@@ -16,6 +16,9 @@ labels: proposal, draft
 ### Alternatives considered
 <!-- Other approaches and why they were not chosen. -->
 
+### Risks
+<!-- What could go wrong or get more expensive. Omit if not applicable. -->
+
 ### Open questions
 <!-- A numbered list of what still needs a decision. -->
 1.
@@ -24,8 +27,8 @@ labels: proposal, draft
 <!-- Checkboxes. Once the proposal is approved and split into tasks, these are the criteria the tasks are checked against. -->
 - [ ]
 
-### Risks
-<!-- What could go wrong or get more expensive. Omit if not applicable. -->
+### Out of scope
+<!-- What this proposal will not cover. -->
 
 ### Notes
 <!-- Links, e.g. the spike branch and its output files. Omit if not applicable. -->
