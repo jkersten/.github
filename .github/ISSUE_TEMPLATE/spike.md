@@ -1,6 +1,6 @@
 ---
 name: Spike
-about: Time-boxed investigation to answer a question or reduce uncertainty
+about: Bounded investigation to answer a specific question or reduce uncertainty
 labels: spike, draft
 ---
 
@@ -10,8 +10,8 @@ labels: spike, draft
 ### Context
 <!-- Why this matters now. Which decision depends on the answer? -->
 
-### Time box
-<!-- Maximum effort before reporting back, even if the question isn't fully answered. (e.g. 2 days) -->
+### Bound
+<!-- What limits this spike: a time box (e.g. 2 days) or a fixed scope (e.g. run up to five benchmarks across three tools, then report a recommendation). Report back when the bound is reached, even if the question isn't fully answered. -->
 
 ### Approach
 <!-- How you plan to investigate: prototype, benchmark, reading, interviews, etc. -->
