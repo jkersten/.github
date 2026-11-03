@@ -8,7 +8,7 @@
 <!-- e.g. touches auth middleware; adds a DB migration (MEDIUM); an irreversible DB migration and what data is lost (HIGH) -->
 
 ## Verification
-<!-- Commands run and results. What was NOT tested and why. -->
+<!-- For each acceptance criterion: how you know it is met (a command and its result, a test name, or a screenshot). Then the other commands run and results. What was NOT tested and why. -->
 
 ## Questions for the reviewer
 <!-- Numbered list with specific doubts, (tied to a file or line when applicable). Discard section if there are no questions. -->
