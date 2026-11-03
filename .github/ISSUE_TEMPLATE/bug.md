@@ -25,7 +25,6 @@ labels: bug, draft
 
 ### Acceptance criteria
 <!-- Checkboxes. Each one is something a reviewer can verify. -->
-- [ ] A test fails without the fix and passes with it
 - [ ]
 
 ### Out of scope
