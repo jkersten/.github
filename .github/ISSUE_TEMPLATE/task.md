@@ -4,7 +4,7 @@ about: A concrete piece of work with a clear result, often one step of a story
 labels: task, draft
 ---
 
-<!-- The head: what the PO reads. Keep it to these three parts. -->
+<!-- The head: what the PO reads. Keep it to these parts. -->
 ### Acceptance criteria
 <!-- Checkboxes. Each one is something a reviewer can verify. -->
 - [ ]
@@ -13,6 +13,8 @@ labels: task, draft
 
 **Risk:** <!-- straightforward | risky but understood (say why) | unknown (needs a spike first, which blocks this task) -->
 
+**Mockup:** <!-- When a user sees the change: the link to the approved mockup, or the mockup of the story or bug with the part this task builds. Omit this line when nothing a user sees changes. Never describe the design in words. -->
+
 <details>
 <summary>Details</summary>
 
@@ -20,7 +22,7 @@ labels: task, draft
 <!-- What this task delivers, in one or two sentences. -->
 
 ### Proposed solution
-<!-- The files or modules, the approach, and the design link (the mockup in `docs/design/mockups/`) when the task changes what a user sees. The builder follows it and reports deviations in the PR. -->
+<!-- The files or modules and the approach. The builder follows it and reports deviations in the PR. -->
 
 ### Key tests
 <!-- The tests that show the criteria are met. -->

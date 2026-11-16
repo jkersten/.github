@@ -14,6 +14,8 @@ labels: story, draft
 <!-- Checkboxes, written from the user's side. Reviewers check these against every step. -->
 - [ ]
 
+**Mockup:** <!-- When a user sees the change: the link to the approved mockup, as a commit link into `docs/design/mockups/`. Omit this line when nothing a user sees changes. -->
+
 ### Out of scope
 <!-- What this story will not cover. -->
 
@@ -22,4 +24,4 @@ labels: story, draft
 1.
 
 ### Notes
-<!-- Links, designs, risks. Omit if not applicable. The steps are sub-issues, so don't list them here. -->
+<!-- Links, risks. Omit if not applicable. The steps are sub-issues, so don't list them here. -->
