@@ -27,6 +27,8 @@ labels: bug, draft
 <!-- Checkboxes. Each one is something a reviewer can verify. -->
 - [ ]
 
+**Mockup:** <!-- When the fix changes what a user sees: the link to the approved mockup, as a commit link into `docs/design/mockups/`. Omit this line otherwise. -->
+
 ### Out of scope
 <!-- What this fix will not cover. If another ticket covers it, name that ticket. -->
 
