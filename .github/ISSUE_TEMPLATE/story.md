@@ -14,6 +14,10 @@ labels: story, draft
 <!-- Checkboxes, written from the user's side. Reviewers check these against every step. -->
 - [ ]
 
+### Specs
+<!-- Only for a story without tasks and with a mockup; with tasks the specs sit on the tasks. Checkboxes: small, testable rules about behaviour that came out of the design feedback, each with its id from the note of the mockup (S1, S2, ...). A look is not a spec. Omit this section otherwise. -->
+- [ ]
+
 **Mockup:** <!-- When a user sees the change: the link to the approved mockup, as a commit link into `docs/design/mockups/`. Omit this line when nothing a user sees changes. -->
 
 ### Out of scope

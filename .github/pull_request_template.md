@@ -11,7 +11,7 @@
 <!-- e.g. touches auth middleware; adds a DB migration (MEDIUM); an irreversible DB migration and what data is lost (HIGH) -->
 
 ## Verification
-<!-- For each acceptance criterion: how you know it is met (a command and its result, a test name, or a screenshot). Then the other commands run and results. What was NOT tested and why. -->
+<!-- For each acceptance criterion and each spec: how you know it is met (a command and its result, a test name, or a screenshot). Then the other commands run and results. What was NOT tested and why. -->
 
 ## Notes for the reviewer
 <!-- Anything else the reviewer should know. For example:
