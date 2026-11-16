@@ -27,6 +27,10 @@ labels: bug, draft
 <!-- Checkboxes. Each one is something a reviewer can verify. -->
 - [ ]
 
+### Specs
+<!-- Checkboxes. Small, testable rules about behaviour that came out of the design feedback, each with its id from the note of the mockup (S1, S2, ...). A look is not a spec. Omit this section when the fix has no mockup. -->
+- [ ]
+
 **Mockup:** <!-- When the fix changes what a user sees: the link to the approved mockup, as a commit link into `docs/design/mockups/`. Omit this line otherwise. -->
 
 ### Out of scope
