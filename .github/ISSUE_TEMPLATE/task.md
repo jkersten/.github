@@ -9,6 +9,10 @@ labels: task, draft
 <!-- Checkboxes. Each one is something a reviewer can verify. -->
 - [ ]
 
+### Specs
+<!-- Checkboxes. Small, testable rules about behaviour that came out of the design feedback, each with its id from the note of the mockup (S1, S2, ...). A look is not a spec. Omit this section when there are none. -->
+- [ ]
+
 **Solution:** <!-- One or two sentences on the proposed solution. -->
 
 **Risk:** <!-- straightforward | risky but understood (say why) | unknown (needs a spike first, which blocks this task) -->
