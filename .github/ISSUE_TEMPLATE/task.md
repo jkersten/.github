@@ -10,7 +10,7 @@ labels: task, draft
 - [ ]
 
 ### Specs
-<!-- Checkboxes. Small, testable rules about behaviour that came out of the design feedback, each with its id from the note of the mockup (S1, S2, ...). A look is not a spec. Omit this section when there are none. -->
+<!-- Checkboxes. Small, testable rules about behaviour that came out of the design feedback, each with its id from the note of the mockup (S1, S2, ...). A look is not a spec. Omit this section when the task has none. -->
 - [ ]
 
 **Solution:** <!-- One or two sentences on the proposed solution. -->
