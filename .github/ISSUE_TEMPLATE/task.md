@@ -17,6 +17,8 @@ labels: task, draft
 
 **Risk:** <!-- straightforward | risky but understood (say why) | unknown (needs a spike first, which blocks this task) -->
 
+**Model:** <!-- Sonnet | Opus, with a few words of reason. Default from the risk: Sonnet for straightforward, Opus for risky or unknown. -->
+
 **Mockup:** <!-- When a user sees the change: the link to the approved mockup, or the mockup of the story or bug with the part this task builds. Omit this line when nothing a user sees changes. Never describe the design in words. -->
 
 <details>
