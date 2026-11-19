@@ -4,27 +4,27 @@ about: A concrete piece of work with a clear result, often one step of a story
 labels: task, draft
 ---
 
-<!-- The head: what the PO reads. Keep it to these parts. It must make sense without reading other tickets. -->
+<!-- The head: what the PO reads, in plain language. It must make sense without reading other tickets, and has no open question when the ticket goes to Ready. -->
 ### What
 <!-- One or two lines in plain words: what this task changes or builds. -->
 
 ### Goal
-<!-- One or two lines: the problem this solves or the reason it is needed now, and what is true once the task is done. -->
+<!-- One or two lines: the problem this solves or the reason it is needed now, what exists today, and what is true once the task is done. -->
 
 ### Acceptance criteria
-<!-- Checkboxes. Each one is something a reviewer can verify. -->
+<!-- Checkboxes. Each one says in plain words what the PO can see and a reviewer can verify. Exact values (widths, WCAG level, browser names) go in a spec or the key tests. -->
 - [ ]
 
 ### Out of scope
-<!-- What this task will not do. If another step covers it, name that step. -->
+<!-- What this task will not do. If another ticket or step covers it, name it. -->
 
 ### Specs
-<!-- Checkboxes. Small, testable rules about behaviour that came out of the design feedback, each with its id from the note of the mockup (S1, S2, ...). A look is not a spec. Omit this section when the task has none. -->
+<!-- Checkboxes. Small, testable rules about behaviour that came out of the design feedback, each with its id from the note of the mockup (S1, S2, ...). A look is not a spec. Omit this section when there are none. -->
 - [ ]
 
-**Solution:** <!-- One or two sentences on the proposed solution. -->
+**Decided:** <!-- The PO's decisions made at the Go, one line each, with the link to the decision document. Omit this line when there are none. Replaces the open questions at Ready. -->
 
-**Risk:** <!-- straightforward | risky but understood (say why) | unknown (needs a spike first, which blocks this task) -->
+**Risk:** <!-- In plain words: straightforward | risky but understood (say why) | unknown (needs a spike first, which blocks this task). -->
 
 **Model:** <!-- Sonnet | Opus, with a few words of reason. Default from the risk: Sonnet for straightforward, Opus for risky or unknown. -->
 
@@ -34,13 +34,16 @@ labels: task, draft
 <summary>Details</summary>
 
 ### Proposed solution
-<!-- The files or modules and the approach. The builder follows it and reports deviations in the PR. -->
+<!-- The files or modules and the approach, in one or two sentences first. The builder follows it and reports deviations in the PR. -->
 
 ### Key tests
-<!-- The tests that show the criteria are met. -->
+<!-- The tests that show the criteria are met, with the exact values the criteria leave out. -->
+
+### Assumptions
+<!-- Choices the builder may make without asking and logs in the decisions comment. Omit if none. -->
 
 ### Context
-<!-- How this task relates to other tickets (its parent, the steps before and after it, what blocks it, the siblings it builds on), the current situation, and links to earlier decisions, including the decision document. -->
+<!-- How this relates to other tickets (its parent, the steps before and after it, what blocks it, the siblings it builds on), the current situation, and links to earlier decisions, including the decision document. -->
 
 ### Notes
 <!-- Approach, links, risks. Omit if not applicable. -->
