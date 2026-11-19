@@ -1,5 +1,7 @@
 <!-- Title: plain language, like a ticket title. -->
-<!-- The head, for the PO: plain language, read in about a minute. Nothing under "Needs you", "Assumptions made" or "Known limitations" goes in Details. -->
+## For the PO
+<!-- The head: plain language, read in about a minute. Nothing under "Needs you", "Assumptions made" or "Known limitations" goes in Details. -->
+
 ## What changes for you
 <!-- Two to four plain lines: what users or the PO will notice. -->
 
@@ -13,10 +15,10 @@
 <!-- The number of decisions made for the PO, with the link to the decisions comment where they can be overruled. -->
 
 ## Assumptions made
-<!-- One plain line for each place the ticket was silent and you chose, each linked to its entry in the decisions comment. At most five (the ones with the most effect, plus a count of the rest). "None" when there are none. -->
+<!-- Every choice you made where the ticket was silent, whether the ticket's Assumptions list covered it or not: one plain line each, linked to its entry in the decisions comment. Mark one that is not on the ticket's list as new. "None" when there are none. -->
 
 ## Needs you
-<!-- Manual steps after merging (a new secret, a rebuild, a data migration), an irreversible migration, a reserved decision, a new dependency outside the standing criteria. "Nothing" when there is none. -->
+<!-- Manual steps after merging (a new secret, a rebuild, a data migration), an irreversible migration, a reserved decision, a new dependency outside the standing criteria, a missing verification tool (link the chore ticket you proposed), a bug found outside the scope (propose a bug ticket). "Nothing" when there is none. -->
 
 ## Known limitations
 <!-- What the PR knowingly does not do or fix. "None" when there are none. -->
@@ -43,7 +45,7 @@
 <!-- For each acceptance criterion and each spec: how you know it is met (a command and its result, a test name, or a screenshot). Then the other commands run and results. What was NOT tested and why. -->
 
 ## Notes for the reviewer
-<!-- Anything else the reviewer should know: added or removed dependencies (library, tool, Docker image, CI action) with the reason and where it was approved; bugs found outside the scope (propose a bug ticket). Discard this section if there are no notes. -->
+<!-- Anything else the reviewer should know: added or removed dependencies (library, tool, Docker image, CI action) with the reason and where it was approved. Discard this section if there are no notes. -->
 
 </details>
 
