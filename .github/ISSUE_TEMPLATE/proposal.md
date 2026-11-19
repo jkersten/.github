@@ -21,6 +21,8 @@ labels: proposal, draft
 <!-- A numbered list of what still needs the PO's decision. Empty at Ready: the answers go in Decided. -->
 1.
 
+**Decided:** <!-- The PO's decisions made at the Go, one line each, with the link to the decision document. Omit this line when there are none. Replaces the open questions at Ready. -->
+
 ### Acceptance criteria
 <!-- Checkboxes, in plain words. Once the proposal is approved and split into tasks, these are the criteria the tasks are checked against. -->
 - [ ]
