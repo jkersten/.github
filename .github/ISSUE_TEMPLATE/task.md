@@ -4,7 +4,16 @@ about: A concrete piece of work with a clear result, often one step of a story
 labels: task, draft
 ---
 
-<!-- The head: what the PO reads. Keep it to these parts. -->
+<!-- The head: what the PO reads. Keep it to these parts. It must make sense without reading other tickets. -->
+### What
+<!-- One or two lines in plain words: what this task changes or builds. -->
+
+### Why
+<!-- One or two lines: the problem it solves or the reason it is needed now. -->
+
+### Goal
+<!-- One or two lines: what is true once this task is done. -->
+
 ### Acceptance criteria
 <!-- Checkboxes. Each one is something a reviewer can verify. -->
 - [ ]
@@ -24,9 +33,6 @@ labels: task, draft
 <details>
 <summary>Details</summary>
 
-### Goal
-<!-- What this task delivers, in one or two sentences. -->
-
 ### Proposed solution
 <!-- The files or modules and the approach. The builder follows it and reports deviations in the PR. -->
 
@@ -34,7 +40,7 @@ labels: task, draft
 <!-- The tests that show the criteria are met. -->
 
 ### Context
-<!-- Background that helps to understand the task: the current situation, related tickets and earlier decisions. -->
+<!-- How this task relates to other tickets: its parent, the steps before and after it, what blocks it, the siblings it builds on, and the link to the decision document. -->
 
 ### Out of scope
 <!-- What this task will not do. If another step covers it, name that step. -->
