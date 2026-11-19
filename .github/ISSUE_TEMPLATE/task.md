@@ -8,11 +8,8 @@ labels: task, draft
 ### What
 <!-- One or two lines in plain words: what this task changes or builds. -->
 
-### Why
-<!-- One or two lines: the problem it solves or the reason it is needed now. -->
-
 ### Goal
-<!-- One or two lines: what is true once this task is done. -->
+<!-- One or two lines: the problem this solves or the reason it is needed now, and what is true once the task is done. -->
 
 ### Acceptance criteria
 <!-- Checkboxes. Each one is something a reviewer can verify. -->
