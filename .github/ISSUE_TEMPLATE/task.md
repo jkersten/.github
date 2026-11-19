@@ -18,12 +18,12 @@ labels: task, draft
 <!-- Checkboxes. Each one is something a reviewer can verify. -->
 - [ ]
 
+### Out of scope
+<!-- What this task will not do. If another step covers it, name that step. -->
+
 ### Specs
 <!-- Checkboxes. Small, testable rules about behaviour that came out of the design feedback, each with its id from the note of the mockup (S1, S2, ...). A look is not a spec. Omit this section when the task has none. -->
 - [ ]
-
-### Out of scope
-<!-- What this task will not do. If another step covers it, name that step. -->
 
 **Solution:** <!-- One or two sentences on the proposed solution. -->
 
@@ -43,7 +43,7 @@ labels: task, draft
 <!-- The tests that show the criteria are met. -->
 
 ### Context
-<!-- How this task relates to other tickets (its parent, the steps before and after it, what blocks it, the siblings it builds on), the current situation, and earlier decisions with the link to the decision document. -->
+<!-- How this task relates to other tickets (its parent, the steps before and after it, what blocks it, the siblings it builds on), the current situation, and links to earlier decisions, including the decision document. -->
 
 ### Notes
 <!-- Approach, links, risks. Omit if not applicable. -->
