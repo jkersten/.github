@@ -5,7 +5,7 @@
 <!-- Plain language, read in about a minute: no file names or jargon. Bullets in every section. Leave out a section that doesn't apply, except Needs you. Nothing under "Needs you", "Assumptions made" or "Known limitations" goes in Details. -->
 
 ## Needs you
-<!-- What the PO must do: the merge or acceptance, manual steps after merging (a new secret, a rebuild, a data migration), an irreversible migration, a reserved decision, a new dependency outside the standing criteria, a missing verification tool (link the chore ticket you proposed), a bug found outside the scope (propose a bug ticket). Numbered steps when the order matters, bullets otherwise. "Nothing" when there is none. -->
+<!-- What the PO must do: the merge or acceptance, when it is the PO's; manual steps after merging (a new secret, a rebuild, a data migration), an irreversible migration, a reserved decision, a new dependency outside the standing criteria, a missing verification tool (link the chore ticket you proposed), a bug found outside the scope (propose a bug ticket). Numbered steps when the order matters, bullets otherwise. "Nothing" when there is none. -->
 
 ## What changed
 <!-- Changes that affect the PO or an end user, one bullet each, with before and after. -->
